@@ -1,5 +1,8 @@
 function runExperiment(ptpntCode)
 
+% INPUT
+% ptpntCode: scalar. ID number of participant.
+
 % EXPERIMENT DESIGN
 % Task: Pick between two clouds of dots (left and right) whcih one is the
 % high mean cloud
