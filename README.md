@@ -6,7 +6,7 @@ Author: [Joshua Calder-Travis](https://scholar.google.com/citations?user=-9asgxc
 
 ## Running the code
 
-[Psychtoolbox](http://psychtoolbox.org/) is required to run the experiment. The experiment can be launched using `runExperiment`. The data produced can be collected together using `collateAllData`, before being converted to a standard format using `convertToStandardFormat`. The resulting data is then ready to be used with the [main analysis functions](https://github.com/jCalderTravis/DDM-conf-analysis).
+[Psychtoolbox](http://psychtoolbox.org/) is required to run the experiment. The experiment can be launched using `runExperiment`. The data produced can be collected together using `collateAllData`, before being converted to a standard format using `convertToStandardFormat`. The resulting data is then ready to be used with the [main analysis functions](https://github.com/jCalderTravis/DDM-conf-analysis). `saveAsCsv` can be used to convert the standard format dataset into CSV files.
 
 ## History 
 Reviewed all code prior to use in experiment. Nevertheless, no guarantee or warranty is provided for any part of the code.
